@@ -1,6 +1,6 @@
 ## 👋 Hi there
 - You can call me the42 or the42game.
-- She/It. 🏳️‍⚧️ (Sort of)
+- She/It.
 - Language: zh-Hant/s or en-US/CA
 - Know basically nothing in computer.
 - Student -> Useless NEET
