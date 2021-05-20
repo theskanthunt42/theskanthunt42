@@ -1,16 +1,32 @@
-### Hi there 👋
+## 👋 Hi there
+- You can call me the42 or the42game
+- $LANG: zh_CN/en_US
+- Know basically nothing in computer.
+- Student -> Useless NEET
+- Call me She or It pls.
 
-<!--
-**theskanthunt42/theskanthunt42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🤔 What I'm doing:
+- Writing some useless and terrible stuff just for learn programming language.
+- Learning Python/C/Rust.
+- Planing on HRT stuff that will be achieved in the near future
+- Wasting time in a shitty school.
 
-Here are some ideas to get you started:
+## Working Environment
+Ubuntu MATE 20.04
+<br>
+Debian buster
+<br>
+Android 9/11
+<br>
+iOS 14
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Devices in use
+Sony Xperia XZ1 Compact
+<br>
+iPad mini (5th Gen)
+<br>
+Google Pixel 3 (RIP)
+
+## Contact
+[Fediverse](https://rosehip.moe/@42lzmr)
+[E-Mail](mailto:the42game@rosehip.moe)
