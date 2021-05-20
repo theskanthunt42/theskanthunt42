@@ -1,17 +1,17 @@
 ## 👋 Hi there
 - You can call me the42 or the42game.
-- She/It.
-- $LANG: zh_CN/en_US
+- She/It. 🏳️‍⚧️ (Sort of)
+- Language: zh-Hant/s or en-US/CA
 - Know basically nothing in computer.
 - Student -> Useless NEET
 - Extremely low self-confidence
 
-## 😣 What I'm doing
+## 😣 How I waste my time
 - Writing some useless and terrible stuff just for learn programming language.
 - Learning Python/C/Rust.
 - Planing on HRT stuff that will be started in the near future
 - Wasting time in a shitty school.
-- 🍋
+- 🍋(Jealous) everyday for the stuff around me
 
 ## 🛠️ Working Environment
 Ubuntu MATE 20.04
@@ -22,7 +22,7 @@ Android 9/11
 <br>
 iOS 14
 
-## 💽 Devices in use
+## 💽 Devices
 Sony Xperia XZ1 Compact
 <br>
 iPad mini (5th Gen)
