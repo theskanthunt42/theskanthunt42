@@ -29,4 +29,5 @@ Google Pixel 3 (RIP)
 
 ## Contact
 [Fediverse](https://rosehip.moe/@42lzmr)
+<br>
 [E-Mail](mailto:the42game@rosehip.moe)
