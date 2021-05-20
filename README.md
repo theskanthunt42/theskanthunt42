@@ -9,7 +9,7 @@
 ## 😣 What I'm doing
 - Writing some useless and terrible stuff just for learn programming language.
 - Learning Python/C/Rust.
-- Planing on HRT stuff that will be achieved in the near future
+- Planing on HRT stuff that will be started in the near future
 - Wasting time in a shitty school.
 - 🍋
 
