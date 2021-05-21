@@ -4,7 +4,7 @@
 - Language: zh-Hant/s or en-US/CA
 - Know basically nothing in computer.
 - Student -> Useless NEET
-- Extremely low self-confidence
+- Extremely low self-confidence.
 
 ## 😣 How I waste my time
 - Writing some useless and terrible stuff just for learn programming language.
@@ -23,11 +23,11 @@ Android 9/11
 iOS 14
 
 ## 💽 Devices
-Sony Xperia XZ1 Compact
+Daily driver: Sony Xperia XZ1 Compact
 <br>
-iPad mini (5th Gen)
+Game console(MUGs): iPad mini 5
 <br>
-Google Pixel 3 (RIP)
+R.I.P: Google Pixel 3
 
 ## ✉️ Contact
 [Fediverse](https://rosehip.moe/@42lzmr)
