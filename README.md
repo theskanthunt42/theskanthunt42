@@ -1,7 +1,7 @@
 ## 👋 Hi there
 - You can call me the42 or the42game.
 - She/It.
-- Language: zh-Hant/s or en-US/CA
+- Language: zh-hant/s or en-us (And a bit of ja-jp)
 - Know basically nothing in computer.
 - Student -> Useless NEET
 - Extremely low self-confidence.
