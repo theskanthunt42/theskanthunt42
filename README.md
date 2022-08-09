@@ -8,7 +8,7 @@
 - A useless NEET.
 - Extremely low self-confidence.
 - Also on HRT if you curious.
-- If you curious enough, non-binary, but satisfied when being call as a female.
+- If you curious enough, non-binary, but satisfied when being treat as a female.
 
 ## 😣 How I waste my time
 - Writing some useless and terrible stuff just for learn programming language.
@@ -29,7 +29,7 @@ iOS/iPad OS 15(iPhone SE Gen1) -> latest version
 Android 9(Abandoned)
 
 ## 💽 Devices
-Daily driver: Apple iPhone 12 mini
+Daily driver: Apple iPhone 12 mini + HP Elitebook 835 G8
 <br>
 Game console(MUGs): iPad mini 5 -> 6, PlayStation 2(PAL, SCPH-39004), all Nintendo major handled since GameBoy Advance
 <br>
